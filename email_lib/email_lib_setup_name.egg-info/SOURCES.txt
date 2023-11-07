@@ -1,0 +1,8 @@
+README.md
+setup.py
+email_lib/__init__.py
+email_lib/myfunctions.py
+email_lib_setup_name.egg-info/PKG-INFO
+email_lib_setup_name.egg-info/SOURCES.txt
+email_lib_setup_name.egg-info/dependency_links.txt
+email_lib_setup_name.egg-info/top_level.txt
